@@ -5,7 +5,7 @@ import { greeting } from "./greeting.js";
 console.log(greeting);
 
 //add image
-import odinImage from "./odin.png";
+import odinImage from "./amor.jpeg";
    
 const image = document.createElement("img");
 image.src = odinImage;
